@@ -1,3 +1,6 @@
+
+![meta_painting](https://user-images.githubusercontent.com/5381613/184212725-096ed070-bb32-4e45-bdf7-311b73f048d5.png)
+
 # NFT-fabric
 
 ## Introduction
