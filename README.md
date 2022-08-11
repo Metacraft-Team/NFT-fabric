@@ -1,4 +1,12 @@
+
+![meta_painting](https://user-images.githubusercontent.com/5381613/184212725-096ed070-bb32-4e45-bdf7-311b73f048d5.png)
+
 # NFT-fabric
+[![Website](https://img.shields.io/website?down_message=offline&style=for-the-badge&up_color=blue&up_message=online&url=https%3A%2F%2Fmetacraft.cc)](https://metacraft.cc)
+[![license](https://img.shields.io/github/license/Metacraft-Team/NFT-fabric?style=for-the-badge)](https://github.com/Metacraft-Team/NFT-fabric/blob/master/LICENSE)
+[![Discord](https://img.shields.io/discord/881890111644631122?label=Discord&style=for-the-badge)](http://discord.gg/yEv3qKhVBH)
+[![Twitter Follow](https://img.shields.io/twitter/follow/MetacraftCC?color=green&logoColor=green&style=for-the-badge&label=Twitter)](https://twitter.com/MetacraftCC)
+[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC-fAgQr5lxNVZU4_LVXmKOg?style=for-the-badge&label=Youtube%20Views)](https://www.youtube.com/channel/UC-fAgQr5lxNVZU4_LVXmKOg)
 
 ## Introduction
 
